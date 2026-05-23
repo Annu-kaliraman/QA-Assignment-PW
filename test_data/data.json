@@ -1,0 +1,12 @@
+{
+  "createUser": {
+    "name": "Annu",
+    "job": "QA Engineer"
+  },
+
+  "updatedUser": {
+    "name": "Annu Updated",
+    "job": "Senior QA Engineer"
+  },
+  "userid": 2
+}
